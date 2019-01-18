@@ -1,0 +1,37 @@
+HEAD_HUMANOID:HEAD:humanoid:0
+HEAD_ORC:HEAD:ceatian:1
+HEAD_GNOLL:HEAD:hyena-like:2
+HEAD_CANINE:HEAD:dog-like:3
+HEAD_BOVINE:HEAD:cattle-like:4
+HEAD_SNAKE:HEAD:serpintine:5
+HEAD_DRAGON:HEAD:draconic:6
+HEAD_REPTILE:HEAD:replilian:7
+HEAD_EAGLE:HEAD:avian:8
+UBOD_NO_WINGS:UPPER_BOD:no distinguishing features:0:True
+UBOD_FIN:UPPER_BOD:a dorsal fin:1
+UBOD_2_WINGS:UPPER_BOD:two:2
+HANDS_STANDARD:HANDS:hands:0
+LBOD_PLANT_BIP:LOWER_BOD:a lower body with two:0
+LBOD_DIG_BIP:LOWER_BOD:a lower body with two:1
+LBOD_UNG_BIP:LOWER_BOD:a lower body with two:2
+LBOD_DIG_QUAD:LOWER_BOD:an elongated lower body with four:3
+LBOD_UNG_QUAD:LOWER_BOD:a moderately elongated lower body with four:4
+LBOD_SNAKE:LOWER_BOD:a length of serpintine coils.:5
+LBOD_SPIDER:LOWER_BOD:a elongated arachid lower body with a bulbous secondary abdomon and eight:6
+LBOD_SCORPION:LOWER_BOD:a elongated arachid lower body with a pair on pinchers, a stinger-tipped tail, and eight:7
+FEET_PLANT:FEET:plantgrade feet.:0
+FEET_DIG:FEET:digigrade feet.:1
+FEET_UNG:FEET:hooves.:2
+FEET_ARTHO:FEET:segmented feet.:3
+FEET_AVIAN:FEET:bird-like talons.:4
+FEET_NONE:FEET::10:True
+WINGS_NONE:WINGS::0:True
+WINGS_EAGLE:WINGS:avian wings:1
+WINGS_DRAGON:WINGS:bat-like leathery wings:2
+TAIL_NONE:TAIL::0:True
+TAIL_LION:TAIL:(haircolor) tufted leoine tail:1
+TAIL_EAGLE:TAIL:fan shaped tail:2
+TAIL_REPTILE:TAIL:ridged tail:3
+TAIL_SNAKE:TAIL:sinous tail:4
+TAIL_DRAGON:TAIL:wavy, spade tipped tail:5
+TAIL_HORSE:TAIL:tapering tail that is covered in (haircolor) hair:6

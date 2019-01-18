@@ -1,0 +1,4 @@
+GEN_MALE:Male:he:him:his:his:himself:has:is
+GEN_FEMALE:Female:she:her:her:hers:herself:has:is
+GEN_MULTI:Multiple:they:them:their:theirs:themselves:have:are
+GEN_YOU:Second:you:you:your:yours:yourself:have:are
